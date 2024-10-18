@@ -14,7 +14,7 @@ A comprehensive sales forecasting dashboard built using Power BI. Leveraging adv
 **Technical Skills:**
 
 - Power BI
-- Time-series analysis (e.g., ARIMA, Prophet)
+- Time-series analysis 
 - Data visualization
 - Statistical modeling
 
